@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SBSC_Challenge</name>
+    </assembly>
+    <members>
+        <member name="M:SBSC_Challenge.Controllers.StudentController.GetStudent(System.Int32)">
+            <summary>
+            Get student 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SBSC_Challenge.Controllers.StudentController.CreateStudent(SBSC_Challenge.Models.Request.CreateStudentRequestModel)">
+            <summary>
+            create student 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SBSC_Challenge.Controllers.StudentController.EditStudent(SBSC_Challenge.Models.Request.EditStudentRequestModel)">
+            <summary>
+            edit student 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SBSC_Challenge.Controllers.StudentController.DeleteStudent(System.Int32)">
+            <summary>
+            delete student 
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
